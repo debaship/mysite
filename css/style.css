@@ -1,0 +1,29 @@
+body{
+	margin:0;
+	background: url(../images/logo.jpg);
+}
+.container{
+	width:1170;
+	margin: 0 auto;
+	background-color: brown;
+}
+
+#mainbody {
+	padding: : 0px 0px auto;
+}
+
+.lsb-border{
+	background-color: lightgrey;
+	width: 100%;
+	border :1px solid yellow;
+	padding: 0px;
+	margin: 0px;
+}
+.lsb-col-border{
+	background-color: #ffc978;
+	width: 25%;
+	border :5px solid white;
+	border-radius: 8px;
+	padding: 0px;
+	margin: 0px;
+}
